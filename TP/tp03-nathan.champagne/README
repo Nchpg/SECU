@@ -1,0 +1,11 @@
+Voici mon TP n°3 :
+
+Je n'ai pas éprouvé de diffucultés particulières. Un TP interessant pour jouer avec les listes et le cons. 
+
+Néanmoins pour la fonction decompose. Pour l'instruction :
+
+decompose 0 ['A'; 'B'];;
+
+Mon code renvoi - : char list = ['A'] et non - : char list = [] Ce qui me parrait logique car par exemple en binaire le 0 en base 10 se convertit en 0. Donc on peut le convertir or avec l'exemple on dirait qu on ne peut pas convertir 0.
+
+Nathan Champagne SUP R2

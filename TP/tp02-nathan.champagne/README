@@ -1,0 +1,9 @@
+Voici mon TP n°2 :
+
+Les deux fichiers fractals.ml et patterns.ml sont prêts à l'emploi.
+
+Dans le fichier fractals.ml, j'ai utilisé pour la fonction carpet et l'arbre de pytagore des flottants afin d'être plus précis dans le tracé et ainsi être plus fidèle vis-à-vis de l'énoncé.
+
+Pour mandelbrot j'ai mis en place un ajustement de l'échelle pour éviter des déformations inopinées de la fractale. Il est aussi possible de zoomer à l'intérieur de la fractale en changeant les paramètres xmin, xmax, ymin et ymax que je n'ai pas mis en tant qu'argument de la fonction afin de respecter les dimensions que j'estime de base dans le but de coïncider le plus possible avec l'énoncé. Je vous conseille de lancer mandelbrot avec n = 50 pour obtenir une bonne précision.
+
+Nathan Champagne SUP R2

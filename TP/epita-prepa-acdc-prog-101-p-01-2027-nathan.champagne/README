@@ -1,0 +1,13 @@
+TP C#
+
+Pas beaucoup de difficultes sur ce TP a part la prise en main du nouvelle environnememt. Les consignes etait tres claires.
+
+J'ai creer une testsuite pour verifier que les fonctions fonctionnent correctement.
+
+Pour la convertion d entier en string j'avais commence a faire '0'+int qui retourne le caractere contenant le int entre 0 et 9 en passant par l'ascii mais il y avait des problemes car la fonction devait retourner un string et non un int donc je me suis penche sur les listes.
+
+Pour obtenir les puissances de deux dans les fonctions decode j'ai fait *2 (*8 ou *16)a chaque etape pour passer au chiffre suivant plutot qu'utiliser myPow avec le rang du bit.
+
+Pour la partie Hexa j'ai utilise la fonction toUpper pour forcer a mettre les lettres en majuscule et eviter l'utilisation de 2 listes avec la lettre respectivement en majuscule et en minuscule.
+
+:)
